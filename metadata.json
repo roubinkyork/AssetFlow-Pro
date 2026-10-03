@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Language Asset Management System",
+  "description": "Multi-language asset management system for small businesses compliant with ISO 55001 and GDPR standards, featuring predictive maintenance dashboards with historical failure modeling, Eastern & Western Armenian localization, encrypted cloud storage, automated report generation, real-time tracking, offline mode, and mobile field staff updates.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
